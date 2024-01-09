@@ -4,7 +4,9 @@
 - 📫 How to reach me **dohyoungkim727@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1BPxy5I1FfqxbvUhx0M6116Dvh8IJ5uNe?usp=sharing](https://drive.google.com/drive/folders/1BPxy5I1FfqxbvUhx0M6116Dvh8IJ5uNe?usp=sharing)
-  
+
+- 🔭 Here is my blog https://daveloper727.blogspot.com/
+
 - ⚡ Life goal **Pursue to be better than how I was yesterday**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
