@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dohyoung Kim.</h1>
-<h3 align="left">An achievement-oriented second year CS student in York university.</h3>
+<h3 align="left">Thrid year CS student in York university.</h3>
 
 - 📫 How to reach me **dohyoungkim727@gmail.com**
 
