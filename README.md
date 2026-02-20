@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Dohyoung Kim.</h1>
-<h3 align="left">Thrid year CS student in York university.</h3>
 
 - 📫 How to reach me **dohyoungkim727@gmail.com**
 
@@ -7,7 +6,6 @@
 
 - 🔭 Here is my blog https://daveloper727.blogspot.com/
 
-- ⚡ Life goal **Pursue to be better than how I was yesterday**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dohyoung kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dohyoung kim" height="30" width="40" /></a>
